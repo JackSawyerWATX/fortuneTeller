@@ -19,7 +19,7 @@ if (randomNumber === 1) {
   selectedFortune = fortune3;
 } else if (randomNumber === 4) {
   selectedFortune = fortune4;
-} else (randomNumber === 5) {
+} else if (randomNumber === 5) {
   selectedFortune = fortune5;
 }
 
